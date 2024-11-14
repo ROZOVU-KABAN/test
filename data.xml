@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<filebase>
+		<file id ="1">File.txt</file>
+		<file id="2">Some.cpp</file>
+	</filebase>
+		
+	<dirbase>
+		<dir id ="1"> DIR</dir>
+	</dirbase>
+</data>
